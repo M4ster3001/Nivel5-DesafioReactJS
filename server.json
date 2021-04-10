@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "http://localhost/src/assets/7-comidas-típicas-do-litoral-baiano-As-delícias-da-culinária-nordestina.jpg",
+      "name": "Acarajé",
+      "price": "26",
+      "description": "O acarajé é uma das comidas típicas mais famosas da Bahia. É uma espécie de bolinho de feijão com temperos a gosto – normalmente se usa alho, sal, cebola e gengibre – e recheio de camarão. É muito comum nas praias do litoral como petisco e costuma ser fritado em azeite de dendê.",
+      "available": true,
+      "id": 4
     }
   ]
 }
